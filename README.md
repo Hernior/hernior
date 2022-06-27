@@ -3,7 +3,7 @@
 ### About Me
 
 - 🔭 I’m currently working on [Mesha Technology](https://somosmesha.com).
-- 🎓 I have a bachelor's degree in Information Systems at [Federal Institute of Alagoas](https://www2.ifal.edu.br/en).
+- 🎓 I have a bachelor's degree in Information Systems at [Federal Institute of Alagoas](https://en.ifal.edu.br).
 - 🌱 I’m currently learning React and Node.js.
 - 💬 Ask me about Angular, Laravel, MySQL and FiveM.
 - 😄 Pronouns: He/Him
