@@ -28,6 +28,7 @@
   ![Oracle](https://img.shields.io/badge/-Oracle-orangered?style=flat&logo=oracle)
 #### Tools
   ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat&logo=docker)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-fed8b1?style=flat&logo=adobe-illustrator)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-fed8b1?style=flat&logo=xampp)
