@@ -32,6 +32,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-fed8b1?style=flat&logo=adobe-illustrator)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-fed8b1?style=flat&logo=xampp)
+#### Operating Systems
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows)
 
 #### GitHub Analytics
 
