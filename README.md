@@ -5,16 +5,15 @@
 - 🔭 I’m currently working on [SENAI Alagoas](https://al.senai.br).
 - 🎓 I have a bachelor's degree in Information Systems at [Federal Institute of Alagoas](https://en.ifal.edu.br).
 - 🌱 I’m currently learning Docker and Springboot.
-- 💬 Ask me about Angular, Laravel, NestJs, MySQL and FiveM.
+- 💬 Ask me about Angular, VueJS, Laravel, NestJs, MySQL and FiveM.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to admire landscapes and nature but I hardly ever leave my house.
 
 ### Tech Stack
 
 #### Front-End
-  ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-lightblue?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+  ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-Typescript-darkblue?style=flat-square&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
   ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery)
