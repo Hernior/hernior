@@ -4,37 +4,38 @@
 
 - 🔭 I’m currently working on [SENAI Alagoas](https://al.senai.br).
 - 🎓 I have a bachelor's degree in Information Systems at [Federal Institute of Alagoas](https://en.ifal.edu.br).
-- 🌱 I’m currently learning React and Node.js.
-- 💬 Ask me about Angular, Laravel, MySQL and FiveM.
+- 🌱 I’m currently learning Docker and Springboot.
+- 💬 Ask me about Angular, Laravel, NestJs, MySQL and FiveM.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to admire landscapes and nature but I hardly ever leave my house.
 
 ### Tech Stack
 
 #### Front-End
-  ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-lightblue?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
-  ![TypeScript](https://img.shields.io/badge/-Typescript-darkblue?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-  ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
+  ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-lightblue?style=flat-square&logo=CSS3&logoColor=1572B6)
+  ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-darkblue?style=flat-square&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+  ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery)
 #### Back-End
-  ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-Laravel-ff9c83?style=flat&logo=laravel)
-  ![Lua](https://img.shields.io/badge/-Lua-darkblue?style=flat&logo=lua)
+  ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-ff9c83?style=flat-square&logo=laravel)
+  ![Lua](https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua)
+  ![Nest](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 #### Database
-  ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql)
-  ![Firebase](https://img.shields.io/badge/-Firebase-orangered?style=flat&logo=firebase)
-  ![Oracle](https://img.shields.io/badge/-Oracle-orangered?style=flat&logo=oracle)
+  ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-orangered?style=flat-square&logo=firebase)
+  ![Oracle](https://img.shields.io/badge/-Oracle-orangered?style=flat-square&logo=oracle)
 #### Tools
-  ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
-  ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat&logo=docker)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-fed8b1?style=flat&logo=adobe-illustrator)
-  ![XAMPP](https://img.shields.io/badge/-XAMPP-fed8b1?style=flat&logo=xampp)
+  ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-fed8b1?style=flat-square&logo=adobe-illustrator)
+  ![XAMPP](https://img.shields.io/badge/-XAMPP-fed8b1?style=flat-square&logo=xampp)
 #### Operating Systems
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu)
-  ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
 
 #### GitHub Analytics
 
