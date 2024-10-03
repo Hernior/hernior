@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [SENAI Alagoas](https://al.senai.br).
 - 🎓 I have a bachelor's degree in Information Systems at [Federal Institute of Alagoas](https://en.ifal.edu.br).
-- 🌱 I’m currently learning Docker and Springboot.
+- 🌱 I’m currently learning Springboot.
 - 💬 Ask me about Angular, VueJS, Laravel, NestJs, MySQL and FiveM.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to admire landscapes and nature but I hardly ever leave my house.
