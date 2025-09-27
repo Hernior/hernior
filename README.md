@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on [SENAI Alagoas](https://al.senai.br).
+- 🔭 I’m currently working on [TOPOS Tecnologia](https://topos.inf.br).
 - 🎓 I have a bachelor's degree in Information Systems at [Federal Institute of Alagoas](https://en.ifal.edu.br).
 - 🌱 I’m currently learning Springboot.
 - 💬 Ask me about Angular, VueJS, Laravel, NestJs, MySQL and FiveM.
@@ -20,16 +20,17 @@
 #### Back-End
   ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-ff9c83?style=flat-square&logo=laravel)
-  ![Lua](https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua)
   ![Nest](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+  ![Lua](https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua)
 #### Database
   ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)
+  ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-orangered?style=flat-square&logo=firebase)
   ![Oracle](https://img.shields.io/badge/-Oracle-orangered?style=flat-square&logo=oracle)
 #### Tools
   ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-fed8b1?style=flat-square&logo=adobe-illustrator)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-fed8b1?style=flat-square&logo=xampp)
 #### Operating Systems
